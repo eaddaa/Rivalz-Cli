@@ -22,7 +22,10 @@ nvm use 20.0.0
 ```
 screen -S rivalz
 ```
-
+# To reattach later, use:
+```
+screen -r rivalz
+```
 # Install the rivalz-node-cli package globally
 ```
 npm i -g rivalz-node-cli
